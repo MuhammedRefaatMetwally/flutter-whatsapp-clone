@@ -44,9 +44,9 @@ Then run the following commands to run your app:
 **Client**: Flutter, Riverpod
     
 ## Feedback
+If you have any feedback, please reach out to me at namanrivaan@gmail.com
 
+--------------
 Demo 🖼️:
 https://www.linkedin.com/posts/muhammedrefaat_mobiledevelopment-flutter-firebase-activity-7217291800758120449-pEY5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADzSnLkBoPKccc7Kj3mvg0MSWdKInzCbnko
-
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
 
